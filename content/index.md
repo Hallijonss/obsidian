@@ -1,6 +1,24 @@
 ---
-title: Pubquiz Gagnabanki
+Flokkar: Pubquiz Gagnabanki
 ---
+Flokkar
+[[Atvinnulíf]]
+[[Annað]]
+[[Tónlist]]
+[[Tækni]]
+[[Bókmenntir]]
+[[Bíómyndir og sjónvarp]]
+[[Dægurdvöl]]
+[[Hvert er árið]]
+[[Hátíðir]]
+[[Íþróttir og leikir]]
+[[Landafræði]]
+[[Listir]]
+[[Matur og drykkir]]
+[[Náttúra og vísindi]]
+[[Stjórnmál]]
+[[Saga og trúarbrögð]]
+
 
 Hér er gagnabanki fyrir pub quiz spurningar sem úr pubquizum sem hafa verið haldin, sett niður í flokka. Notendum gagnabankans eru hvattir til að bæta við eigin spurningum, annaðhvort í gegnum aðgang á dropboxinu eða með því að senda spuringar á Halla. 
 
