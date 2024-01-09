@@ -142,7 +142,7 @@ Sviss Sebastian og Hófí
 <br>
 
 <details>
-<summary>Guru Pacino Datum hélt fyrirlestra um óandanleikan árið 2015 og voru margir óvissir um hver boðskapur hans var. Hannd dreifði boðskap sínum með undirspili Jurassic park og sagði þegnum sínum að eina sem væri stærra en óendanleikinn væri óendanleikinn sjálfur. Kom svo síðar í ljós að Gúruinn var partur af auglýsingaherferð þar sem viðskiptavinum bauðs ótagmarkað magn af seldri vöru, en hvað var hann að auglýsa?</summary>
+<summary>Guru Pacino Datum hélt fyrirlestra um óandanleikan árið 2015 og voru margir óvissir um hver boðskapur hans var. Hann dreifði boðskap sínum með undirspili Jurassic park og sagði þegnum sínum að eina sem væri stærra en óendanleikinn væri óendanleikinn sjálfur. Kom svo síðar í ljós að Gúruinn var partur af auglýsingaherferð þar sem viðskiptavinum bauðs ótakmarkað magn af seldri vöru, en hvað var hann að auglýsa?</summary>
 Gagnamagn (Hringdu) Halli
 </details>
 <br>
